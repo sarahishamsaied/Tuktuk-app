@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# TukTuk App
+
+An upcoming simple NextJs app to allow users to book any TukTuk around the world!
+
+## How to start the project
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
+```
+or
+
+```
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```
+Default PORT : 3000
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Tools & Dependencies
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+1 - NextJs
 
-## Learn More
+2 - Firebase
 
-To learn more about Next.js, take a look at the following resources:
+3 - TailwindCss
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Sample
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/71923204/193170105-9190add8-a8ee-414f-9c39-85d168928646.png" align = "left" width = 300/>
+  <img src = "https://user-images.githubusercontent.com/71923204/193170082-2908c18d-5816-4a5f-8ea8-afc7b326191e.png"  width = 300/>
+  <img src = "https://user-images.githubusercontent.com/71923204/193170117-1c6ea5e5-671e-4275-9371-b2e839f7515b.png" align = "right" width = 300/>
 
-## Deploy on Vercel
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
